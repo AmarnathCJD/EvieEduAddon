@@ -1,0 +1,4 @@
+colorama
+selenium
+clint
+requests
